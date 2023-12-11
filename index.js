@@ -5,7 +5,7 @@ const jsonInfo = require('./infogrupo');
 const productosInfo = require('./productosInfo'); 
 
 app.get('/',(req,res)=>{
-    res.send("Bienvenido <br>Paginas info - infogrupo3 - productos")
+    res.send("Bienvenido <br>Paginas info - infogrupo3 - productos <br> Información: http://localhost:3000/info<br> Información del grupo: http://localhost:3000/infogrupo3<br> Productos: http://localhost:3000/productos")
 })
 
 app.get('/info', (req, res) => {
