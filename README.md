@@ -5,7 +5,7 @@ DOM Manipulation - Asynchronism
 
 # Página de inicio
 ## Web Server
-https://laboratorio-9-8t3f.onrender.com/
+https://laboratorio-9-8t3f.onrender.com/ <br>
 ![imagen](https://github.com/Miguel-Paredes/Paredes-Miguel-Laboratorio-9/assets/117743367/91ce63c1-1d32-45f4-942f-55a9952e1732)
 
 # Página de información
